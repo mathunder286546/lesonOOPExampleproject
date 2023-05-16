@@ -1,8 +1,9 @@
 #include "main.h"
 #include"student.h"
+#include"manager.h"
 
 int main() {
-	Student st;
+	Student s1();
 
 
 
